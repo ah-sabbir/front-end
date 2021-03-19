@@ -14,7 +14,10 @@ body {
 nav {
   padding: 24px;
   /* background: RGB(23,54,60); */
-  background: #26626d;
+  /* background: #26626d; */
+  /* background: #DC695E; */
+  background: linear-gradient(54deg, rgba(220,105,94,1) 34%, rgba(232,155,151,1) 35%, rgba(232,155,151,1) 100%);
+
 }
 
 .flex {
