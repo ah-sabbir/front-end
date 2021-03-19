@@ -1,0 +1,20 @@
+html {
+  font-size: 14px;
+
+}
+//colors
+
+.card {
+  width: 28rem;
+  background-color: antiquewhite;
+  padding: 2.5rem;
+  color: gray;
+  border-radius: 0.8rem;
+  &__name {
+    font-size: 3rem;
+  }
+ 
+  &__description {
+    font-size: 106rem;
+  }
+}
